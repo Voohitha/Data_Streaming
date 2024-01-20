@@ -1,4 +1,4 @@
-# Data Streaming
+# Real time Data Streaming
 This project focus is on leveraging a single-stream architecture to feed data to compute nodes, enabling real-time query processing and computation on a unified data stream. The project ambitiously undertakes the transformation of the TPC-H benchmark into a streaming context, providing a unique blend of traditional database operations and modern streaming capabilities. Central to our approach is the use of Apache Kafka for efficient data streaming and PostgreSQL for robust data storage and retrieval. The goal is to thoroughly evaluate and compare the performance of this streaming setup against conventional database systems, highlighting the potential benefits and efficiencies of stream processing in database workloads. This repository contains all the resources, code, and documentation necessary to deploy and assess our streaming platform, offering insights into the advantages of integrating streaming technologies in database-centric environments
 Streaming Platform : Apache kafka
 Database : Postgres
